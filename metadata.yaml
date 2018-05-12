@@ -1,0 +1,34 @@
+_repo: R.U.R._13083
+_version: 0.1.0
+alternative_title: Rossumovi univerzální roboti
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Čapek, Karel
+    aliases:
+    - Capek, Karel
+    - Chapek, Karel
+    birthdate: 1890
+    deathdate: 1938
+    gutenberg_agent_id: '4823'
+    url: http://www.gutenberg.org/2009/agents/4823
+    wikipedia: http://en.wikipedia.org/wiki/Karel_Capek
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13083'
+language: cs
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robots -- Drama'
+- !lcsh 'Czech drama -- 20th century'
+- !lcc 'PG'
+- !lcsh 'Science fiction plays'
+title: R.U.R.
+url: http://www.gutenberg.org/ebooks/13083
