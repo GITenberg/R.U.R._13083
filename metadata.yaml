@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4823
     wikipedia: http://en.wikipedia.org/wiki/Karel_Capek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13083#R.U.R.
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
